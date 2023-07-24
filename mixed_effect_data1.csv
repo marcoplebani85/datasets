@@ -1,0 +1,271 @@
+"country","fertilizer","unique_ID","yield"
+"Canada","A","A_Canada_1",46.93
+"Canada","A","A_Canada_2",45.41
+"Canada","A","A_Canada_3",47.52
+"Canada","A","A_Canada_4",47.63
+"Canada","A","A_Canada_5",45.95
+"Canada","A","A_Canada_6",50.56
+"Canada","A","A_Canada_7",43.39
+"Canada","A","A_Canada_8",45.93
+"Canada","A","A_Canada_9",44.45
+"Canada","A","A_Canada_10",43.23
+"Canada","B","B_Canada_1",51.26
+"Canada","B","B_Canada_2",51.71
+"Canada","B","B_Canada_3",51.89
+"Canada","B","B_Canada_4",47.01
+"Canada","B","B_Canada_5",54.63
+"Canada","B","B_Canada_6",46.17
+"Canada","B","B_Canada_7",48.77
+"Canada","B","B_Canada_8",49.45
+"Canada","B","B_Canada_9",47.88
+"Canada","B","B_Canada_10",49.57
+"Canada","C","C_Canada_1",76.95
+"Canada","C","C_Canada_2",71.97
+"Canada","C","C_Canada_3",80.11
+"Canada","C","C_Canada_4",80.65
+"Canada","C","C_Canada_5",79.85
+"Canada","C","C_Canada_6",75.13
+"Canada","C","C_Canada_7",72.5
+"Canada","C","C_Canada_8",76.27
+"Canada","C","C_Canada_9",80.39
+"Canada","C","C_Canada_10",78.92
+"Costa Rica","C","C_Costa Rica_1",83.75
+"Costa Rica","C","C_Costa Rica_2",83.23
+"Costa Rica","C","C_Costa Rica_3",85.59
+"Costa Rica","C","C_Costa Rica_4",84.66
+"Costa Rica","C","C_Costa Rica_5",80.1
+"Costa Rica","C","C_Costa Rica_6",83.99
+"Costa Rica","C","C_Costa Rica_7",85.98
+"Costa Rica","C","C_Costa Rica_8",81.21
+"Costa Rica","C","C_Costa Rica_9",84.68
+"Costa Rica","C","C_Costa Rica_10",84.2
+"Costa Rica","A","A_Costa Rica_4",52.07
+"Costa Rica","A","A_Costa Rica_5",48.82
+"Costa Rica","A","A_Costa Rica_6",53.89
+"Costa Rica","A","A_Costa Rica_7",52.24
+"Costa Rica","A","A_Costa Rica_8",52.54
+"Costa Rica","A","A_Costa Rica_9",52.88
+"Costa Rica","A","A_Costa Rica_10",56.43
+"Costa Rica","B","B_Costa Rica_1",50.02
+"Costa Rica","B","B_Costa Rica_2",54.9
+"Costa Rica","B","B_Costa Rica_3",60.41
+"Costa Rica","A","A_Costa Rica_1",55.65
+"Costa Rica","A","A_Costa Rica_2",51.55
+"Costa Rica","A","A_Costa Rica_3",55.96
+"Costa Rica","B","B_Costa Rica_7",54.97
+"Costa Rica","B","B_Costa Rica_8",57.19
+"Costa Rica","B","B_Costa Rica_9",53.12
+"Costa Rica","B","B_Costa Rica_10",56.86
+"Costa Rica","B","B_Costa Rica_6",54.62
+"Costa Rica","B","B_Costa Rica_4",60.14
+"Costa Rica","B","B_Costa Rica_5",51.79
+"Egypt","C","C_Egypt_6",87.47
+"Egypt","C","C_Egypt_5",81.59
+"Egypt","C","C_Egypt_10",83.25
+"Egypt","C","C_Egypt_7",87.2
+"Egypt","C","C_Egypt_8",91.29
+"Egypt","C","C_Egypt_9",84.73
+"Egypt","C","C_Egypt_1",90.76
+"Egypt","C","C_Egypt_2",89.58
+"Egypt","C","C_Egypt_3",88.05
+"Egypt","C","C_Egypt_4",91.22
+"Egypt","B","B_Egypt_1",54.91
+"Egypt","B","B_Egypt_2",53.98
+"Egypt","B","B_Egypt_3",57.69
+"Egypt","B","B_Egypt_4",59.81
+"Egypt","B","B_Egypt_5",57.86
+"Egypt","B","B_Egypt_6",58.69
+"Egypt","B","B_Egypt_7",54.62
+"Egypt","B","B_Egypt_8",55.74
+"Egypt","B","B_Egypt_9",57.09
+"Egypt","B","B_Egypt_10",55.97
+"Egypt","A","A_Egypt_7",52.55
+"Egypt","A","A_Egypt_8",54.08
+"Egypt","A","A_Egypt_9",55.1
+"Egypt","A","A_Egypt_10",55.86
+"Egypt","A","A_Egypt_2",57.59
+"Egypt","A","A_Egypt_3",58.55
+"Egypt","A","A_Egypt_4",51.82
+"Egypt","A","A_Egypt_1",57.55
+"Egypt","A","A_Egypt_6",56.1
+"Egypt","A","A_Egypt_5",57.32
+"Italy","B","B_Italy_6",49.97
+"Italy","B","B_Italy_7",50.3
+"Italy","B","B_Italy_5",56.47
+"Italy","B","B_Italy_1",50.31
+"Italy","B","B_Italy_2",48.97
+"Italy","B","B_Italy_3",61.65
+"Italy","B","B_Italy_4",53.97
+"Italy","C","C_Italy_8",82.97
+"Italy","C","C_Italy_9",84.25
+"Italy","C","C_Italy_10",83.53
+"Italy","B","B_Italy_8",52.74
+"Italy","B","B_Italy_9",52.76
+"Italy","B","B_Italy_10",53.7
+"Italy","C","C_Italy_1",82.12
+"Italy","C","C_Italy_2",83.05
+"Italy","C","C_Italy_3",84.27
+"Italy","C","C_Italy_4",83.38
+"Italy","C","C_Italy_5",82.18
+"Italy","C","C_Italy_6",79.76
+"Italy","C","C_Italy_7",86.06
+"Italy","A","A_Italy_1",52.01
+"Italy","A","A_Italy_2",56.32
+"Italy","A","A_Italy_3",51.14
+"Italy","A","A_Italy_4",48.91
+"Italy","A","A_Italy_5",53.41
+"Italy","A","A_Italy_6",52.26
+"Italy","A","A_Italy_7",54.13
+"Italy","A","A_Italy_8",55.65
+"Italy","A","A_Italy_9",48.57
+"Italy","A","A_Italy_10",52.99
+"Malaysia","A","A_Malaysia_1",45.44
+"Malaysia","A","A_Malaysia_2",49.49
+"Malaysia","A","A_Malaysia_3",51.95
+"Malaysia","A","A_Malaysia_4",49.11
+"Malaysia","A","A_Malaysia_5",48.15
+"Malaysia","A","A_Malaysia_6",46.83
+"Malaysia","A","A_Malaysia_7",44.24
+"Malaysia","A","A_Malaysia_8",47.94
+"Malaysia","A","A_Malaysia_9",46.37
+"Malaysia","A","A_Malaysia_10",49.62
+"Malaysia","B","B_Malaysia_1",47.88
+"Malaysia","B","B_Malaysia_2",46.17
+"Malaysia","B","B_Malaysia_3",51.12
+"Malaysia","B","B_Malaysia_4",48.25
+"Malaysia","B","B_Malaysia_5",52.18
+"Malaysia","B","B_Malaysia_6",51.33
+"Malaysia","B","B_Malaysia_7",52.01
+"Malaysia","B","B_Malaysia_8",45.45
+"Malaysia","B","B_Malaysia_9",56.42
+"Malaysia","B","B_Malaysia_10",51.9
+"Malaysia","C","C_Malaysia_1",80.07
+"Malaysia","C","C_Malaysia_2",78.8
+"Malaysia","C","C_Malaysia_3",77.5
+"Malaysia","C","C_Malaysia_4",78.22
+"Malaysia","C","C_Malaysia_5",76.76
+"Malaysia","C","C_Malaysia_6",72.12
+"Malaysia","C","C_Malaysia_7",75.69
+"Malaysia","C","C_Malaysia_8",78.83
+"Malaysia","C","C_Malaysia_9",82.16
+"Malaysia","C","C_Malaysia_10",76.28
+"Peru","C","C_Peru_1",78.95
+"Peru","C","C_Peru_2",81.37
+"Peru","C","C_Peru_3",80.37
+"Peru","C","C_Peru_4",77.1
+"Peru","C","C_Peru_5",83.25
+"Peru","C","C_Peru_6",78.67
+"Peru","C","C_Peru_7",85.69
+"Peru","C","C_Peru_8",85.22
+"Peru","C","C_Peru_9",79.8
+"Peru","C","C_Peru_10",81.5
+"Peru","A","A_Peru_4",52.69
+"Peru","A","A_Peru_5",48.68
+"Peru","A","A_Peru_6",50.23
+"Peru","A","A_Peru_7",50.7
+"Peru","A","A_Peru_8",51.53
+"Peru","A","A_Peru_9",50.21
+"Peru","A","A_Peru_10",51.59
+"Peru","B","B_Peru_1",51.46
+"Peru","B","B_Peru_2",51.15
+"Peru","B","B_Peru_3",51.41
+"Peru","A","A_Peru_1",51.65
+"Peru","A","A_Peru_2",50.73
+"Peru","A","A_Peru_3",53.17
+"Peru","B","B_Peru_7",55.17
+"Peru","B","B_Peru_8",55.21
+"Peru","B","B_Peru_9",47.85
+"Peru","B","B_Peru_10",53.22
+"Peru","B","B_Peru_6",50.63
+"Peru","B","B_Peru_4",50.22
+"Peru","B","B_Peru_5",51.16
+"Spain","C","C_Spain_6",75.85
+"Spain","C","C_Spain_5",79.09
+"Spain","C","C_Spain_10",80.87
+"Spain","C","C_Spain_7",78.39
+"Spain","C","C_Spain_8",82.52
+"Spain","C","C_Spain_9",79.89
+"Spain","C","C_Spain_1",81.27
+"Spain","C","C_Spain_2",80.15
+"Spain","C","C_Spain_3",79.19
+"Spain","C","C_Spain_4",83.94
+"Spain","B","B_Spain_1",48.05
+"Spain","B","B_Spain_2",52.99
+"Spain","B","B_Spain_3",54.04
+"Spain","B","B_Spain_4",53.23
+"Spain","B","B_Spain_5",55.15
+"Spain","B","B_Spain_6",52.35
+"Spain","B","B_Spain_7",51.8
+"Spain","B","B_Spain_8",54.24
+"Spain","B","B_Spain_9",58.76
+"Spain","B","B_Spain_10",53.8
+"Spain","A","A_Spain_7",49.46
+"Spain","A","A_Spain_8",50.14
+"Spain","A","A_Spain_9",43.63
+"Spain","A","A_Spain_10",49.83
+"Spain","A","A_Spain_2",51.55
+"Spain","A","A_Spain_3",51.79
+"Spain","A","A_Spain_4",52.8
+"Spain","A","A_Spain_1",50.94
+"Spain","A","A_Spain_6",42.65
+"Spain","A","A_Spain_5",51.9
+"Switzerland","B","B_Switzerland_6",51.54
+"Switzerland","B","B_Switzerland_7",52.87
+"Switzerland","B","B_Switzerland_5",47.82
+"Switzerland","B","B_Switzerland_1",46.9
+"Switzerland","B","B_Switzerland_2",48.29
+"Switzerland","B","B_Switzerland_3",46.34
+"Switzerland","B","B_Switzerland_4",50.91
+"Switzerland","C","C_Switzerland_8",76.68
+"Switzerland","C","C_Switzerland_9",79.79
+"Switzerland","C","C_Switzerland_10",74.07
+"Switzerland","B","B_Switzerland_8",55.88
+"Switzerland","B","B_Switzerland_9",52.84
+"Switzerland","B","B_Switzerland_10",52.78
+"Switzerland","C","C_Switzerland_1",73.94
+"Switzerland","C","C_Switzerland_2",77.58
+"Switzerland","C","C_Switzerland_3",80.74
+"Switzerland","C","C_Switzerland_4",73.63
+"Switzerland","C","C_Switzerland_5",77.56
+"Switzerland","C","C_Switzerland_6",74.59
+"Switzerland","C","C_Switzerland_7",77.41
+"Switzerland","A","A_Switzerland_1",47.67
+"Switzerland","A","A_Switzerland_2",44.08
+"Switzerland","A","A_Switzerland_3",46.43
+"Switzerland","A","A_Switzerland_4",48.21
+"Switzerland","A","A_Switzerland_5",51.62
+"Switzerland","A","A_Switzerland_6",43.94
+"Switzerland","A","A_Switzerland_7",43.57
+"Switzerland","A","A_Switzerland_8",46.63
+"Switzerland","A","A_Switzerland_9",45.5
+"Switzerland","A","A_Switzerland_10",46.34
+"Vietnam","A","A_Vietnam_1",47.49
+"Vietnam","A","A_Vietnam_2",59.06
+"Vietnam","A","A_Vietnam_3",51.82
+"Vietnam","A","A_Vietnam_4",49.38
+"Vietnam","A","A_Vietnam_5",49.54
+"Vietnam","A","A_Vietnam_6",53.62
+"Vietnam","A","A_Vietnam_7",51.89
+"Vietnam","A","A_Vietnam_8",46.15
+"Vietnam","A","A_Vietnam_9",54.28
+"Vietnam","A","A_Vietnam_10",50.46
+"Vietnam","B","B_Vietnam_1",54.73
+"Vietnam","B","B_Vietnam_2",52.46
+"Vietnam","B","B_Vietnam_3",58.38
+"Vietnam","B","B_Vietnam_4",50.78
+"Vietnam","B","B_Vietnam_5",50.27
+"Vietnam","B","B_Vietnam_6",55.02
+"Vietnam","B","B_Vietnam_7",55.55
+"Vietnam","B","B_Vietnam_8",55.98
+"Vietnam","B","B_Vietnam_9",50.57
+"Vietnam","B","B_Vietnam_10",53.32
+"Vietnam","C","C_Vietnam_1",83.89
+"Vietnam","C","C_Vietnam_2",81.06
+"Vietnam","C","C_Vietnam_3",78.49
+"Vietnam","C","C_Vietnam_4",86.06
+"Vietnam","C","C_Vietnam_5",82.26
+"Vietnam","C","C_Vietnam_6",84.58
+"Vietnam","C","C_Vietnam_7",80.09
+"Vietnam","C","C_Vietnam_8",80.22
+"Vietnam","C","C_Vietnam_9",80.28
+"Vietnam","C","C_Vietnam_10",81.35
