@@ -4,4 +4,4 @@ All but three datasets presented here were created using computer simulations wi
 
 - unicorns.csv, based on real data from a mammal species but transformed in various ways;
 
-- RIKZ.csv, marine benthic data collected by the Dutch institute RIKZ in the summer of 2002 and presented here as in the R package AED by Luštrik e Stachelek (https://github.com/romunov/AED/).
+- RIKZ.csv, marine benthic data collected by personnel of the Dutch institute RIKZ in the summer of 2002 and presented here as in the R package AED by Luštrik e Stachelek (https://github.com/romunov/AED/).
